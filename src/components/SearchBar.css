@@ -1,0 +1,15 @@
+.align-center {
+    align-items: center;
+}
+
+.search-results {
+    z-index: 2;
+    position: absolute;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+.container {
+    align-items: center;
+    justify-content: space-between;
+}
